@@ -243,3 +243,38 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+#api-table{
+  border-color:inherit;
+}
+.center{
+  text-align:center;
+}
+.icon{
+  height:40px;
+}
+.version{
+  font-size:8pt;
+  color: #b0b8bf;
+}
+
+.body-list{
+  list-style-type:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
